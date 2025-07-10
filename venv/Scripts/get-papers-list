@@ -1,0 +1,6 @@
+#!C:\Users\LENOVO\pubmed_cli_project\venv\Scripts\python.exe
+import sys
+from get_papers.cli import main
+
+if __name__ == '__main__':
+    sys.exit(main())
